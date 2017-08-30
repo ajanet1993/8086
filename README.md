@@ -21,9 +21,6 @@ Upon completion of course, each student is expected to learn
     * R with RStudio for basic descriptive statistics and plotting.
     * Git (via GitHub) for version control with Markdown for display.
 
-### Version
-We use a ![a version](https://goo.gl/images/ul6Uf6)
-
 ### License 
 This project is licensed under Apache License 2.0
 Apache License
