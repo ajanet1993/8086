@@ -25,13 +25,11 @@ Upon completion of course, each student is expected to learn
 We use a ![a version](https://goo.gl/images/ul6Uf6)
 
 ### License 
-This project is licensed under Apache License 2.0 [Read License](https://github.com/ajanet1993/8086/blob/master/LICENSE)
-  code  (200 lines) - Expand
-                           Apache License
-                           Version 2.0, January 2004
-                        http://www.apache.org/licenses/
-
-   TERMS AND CONDITIONS FOR USE, REPRODUCTION, AND DISTRIBUTION
+This project is licensed under Apache License 2.0
+Apache License
+Copyright(c) 2017 Anuja Janet
+<details>                       
+ TERMS AND CONDITIONS FOR USE, REPRODUCTION, AND DISTRIBUTION
 
    1. Definitions.
 
@@ -215,7 +213,7 @@ This project is licensed under Apache License 2.0 [Read License](https://github.
       same "printed page" as the copyright notice for easier
       identification within third-party archives.
 
-   Copyright {yyyy} {name of copyright owner}
+   Copyright {2017} {Anuja Janet}
 
    Licensed under the Apache License, Version 2.0 (the "License");
    you may not use this file except in compliance with the License.
@@ -227,7 +225,8 @@ This project is licensed under Apache License 2.0 [Read License](https://github.
    distributed under the License is distributed on an "AS IS" BASIS,
    WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
    See the License for the specific language governing permissions and
-   limitations under the License.
+   limitations under the License. 
+   </details>
    
 ## List of files
 THis repository consists of 2 files.
@@ -237,11 +236,3 @@ THis repository consists of 2 files.
 
 ## Authors
 * Anuja Janet - Initial work
-
-
-
-
-
-
-
-
