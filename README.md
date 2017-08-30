@@ -1,5 +1,5 @@
-# Data to Decisions
-This course provides hands-on introduction to contextualized data analysis and information management skills. Ethical, legal, and social implications of managing and using data to support decisions in diverse organizational contexts are discussed and applied in inquiry-driven analysis using command line, SQL, R, Markdown, and Git.
+# About the project
+This project provides hands-on introduction to contextualized data analysis and information management skills. Ethical, legal, and social implications of managing and using data to support decisions in diverse organizational contexts are discussed and applied in inquiry-driven analysis using command line, SQL, R, Markdown, and Git.
 
 ## Getting Started
 
@@ -28,8 +28,9 @@ We use a ![a version](https://goo.gl/images/ul6Uf6)
 This project is licensed under Apache License 2.0 [Read License](https://github.com/ajanet1993/8086/blob/master/LICENSE)
 
 ## List of files
-The files related to this project are placed [here](https://github.com/ajanet1993/8086/blob/master/sample.txt)
-
+THis repository consists of 2 files.
+1. License
+2. README
 
 
 
