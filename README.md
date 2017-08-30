@@ -22,8 +22,7 @@ Upon completion of course, each student is expected to learn
     * Git (via GitHub) for version control with Markdown for display.
 
 ### Version
-
-We use a [a version]!(https://goo.gl/images/ul6Uf6)
+We use a ![a version](https://goo.gl/images/ul6Uf6)
 
 ### License 
 This project is licensed under Apache License 2.0 [Read License](https://choosealicense.com/licenses/apache-2.0/#)
