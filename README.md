@@ -23,7 +23,7 @@ Upon completion of course, each student is expected to learn
 
 ### License 
 This project is licensed under Apache License 2.0
-Copyright(c) 2017 Anuja Janet
+
 <details>                       
  TERMS AND CONDITIONS FOR USE, REPRODUCTION, AND DISTRIBUTION
 
