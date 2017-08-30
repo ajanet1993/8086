@@ -28,7 +28,7 @@ We use a ![a version](https://goo.gl/images/ul6Uf6)
 This project is licensed under Apache License 2.0 [Read License](https://github.com/ajanet1993/8086/blob/master/LICENSE)
 
 ## List of files
-1. Information Seeking
+The files related to this project are placed [here](https://github.com/ajanet1993/8086/blob/master/sample.txt)
 
 
 
