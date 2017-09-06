@@ -23,7 +23,6 @@
    
 ### License/ Terms of Use
    Source: *OECD*
-   OECD (2017), Air and GHG emissions (indicator).
    OECD Material licensed under a particular [Creative Commons IGO license](http://www.oecd.org/termsandconditions/)
   
  ### Potential Users and Decision Makers
@@ -33,3 +32,7 @@
  1. The amount of greenhouse gases emitted based on location.
  2. Annual estimation of greenhouse gas emission.
  3. Analysis of impact of greenhouse gases on climate change.
+
+### Citations
+      OECD (2017), Air and GHG emissions (indicator). 
+      doi: 10.1787/93d10cf7-en (Accessed on 30 August 2017)
