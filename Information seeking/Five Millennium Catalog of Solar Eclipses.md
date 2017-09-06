@@ -13,10 +13,10 @@
  * Owner :Nasa
  * Total File Size: 10 MB
  * Each table size:20KB
- Number of tables: 50( Can select only a set of tables too based on calendar data)
- Each table consists of 17 columns and 251 rows. 
- Column Names are Catalog Number, Calendar Date, TD of Greatest Eclipse, Delta T, Luna Number, Saros Number, Lat. , Long. , Sun Alt,
- Sun Azm, Path Width, Central Duration, Gamma, QLE, Ecl. Mag, Ecl.Type.
+  Number of tables: 50( Can select only a set of tables too based on calendar data).
+  Each table consists of 17 columns and 251 rows. 
+  Column Names are Catalog Number, Calendar Date, TD of Greatest Eclipse, Delta T, Luna Number, Saros Number, Lat. , Long. , Sun Alt,
+  Sun Azm, Path Width, Central Duration, Gamma, QLE, Ecl. Mag, Ecl.Type.
     
  ### License and Terms of Use
   Source : *NASA*
