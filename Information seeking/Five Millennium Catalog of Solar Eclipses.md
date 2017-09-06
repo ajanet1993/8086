@@ -19,6 +19,7 @@
   Sun Azm, Path Width, Central Duration, Gamma, QLE, Ecl. Mag, Ecl.Type.
     
  ## License and Terms of Use
+ This project is licensed under public domain.
   Source : [*NASA*](https://eclipse.gsfc.nasa.gov/solar.html)
   Privacy policies are stated [here](https://www.nasa.gov/about/highlights/HP_Privacy.html)
    
