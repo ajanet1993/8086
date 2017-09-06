@@ -1,6 +1,7 @@
 # Data sets
 ------------------------
 ## 1.Air and GreenHouse Gas Emissions
+------------------------------------
     
 ### Description   
    Greenhouse gases refer to the sum of the gases that have direct imapcts on climate change. These seven gases are :
@@ -13,26 +14,27 @@
 
 ### Interesting Facts
    Climate change is important to understand and the percentage of greenhouse gases would help to predict how the climate will change 
-    over next few decades, which is of vital importance for human existence. And I prefer to chose this topic for better understanding 
-    on this issue.
+   over next few decades, which is of vital importance for human existence. And I prefer to chose this topic for better understanding 
+   on this issue.
 
 ### MetaData   
-   The data consists of columns such as location, indicator, subject, measure, frequency, time, value, flag_codes. This file consists       of 8 columns and 24,948 rows.
-    Size of the table- 1.35MB, Format: CSV
+   The data consists of columns such as location, indicator, subject, measure, frequency, time, value, flag_codes. This file consists      of 8 columns and 24,948 rows.
+   Size of the table- 1.35MB, Format: CSV
     
  ### License 
-  Source: OECD
-  OECD (2017), Air and GHG emissions (indicator).
-  OECD Material licensed under a particular [Creative Commons IGO license](http://www.oecd.org/termsandconditions/)
+   Source: OECD
+   OECD (2017), Air and GHG emissions (indicator).
+   OECD Material licensed under a particular [Creative Commons IGO license](http://www.oecd.org/termsandconditions/)
   
  ### Potential Users and Decision Makers
-  Government, Non-profit Organizations, Third party ventors.
+   Government, Non-profit Organizations, Third party ventors.
   
  ### Questions that will be answered
  
  
  
  ## 2. Five Millennium Catalog of Solar Eclipses
+ -------------------------------------------------------
  
  ### Description 
     Eclipses of the sun can only occur when the moon is near one of its orbital nodes[1] during the New Moon phase. Moon's penumbral,       umbral of antumbral shadows sweep across Earth's surface producing an eclipse. There are four types of solar eclipses: Partial,         Annular, Total and Hybrid.
@@ -41,7 +43,7 @@
  ### Interesting Facts
  
  ### MetaData
-    Number of tables : 50
+    Number of tables : Depends upon the years you select. 5-20
     Each table consists of 17 columns and 251 rows. Total size: 10 MB
     Column Names are Catalog Number, Calendar Date, TD of Greatest Eclipse, Delta T, Luna Number, Saros Number, Lat. , Long. , Sun Alt,
     Sun Azm, Path Width, Central Duration, Gamma, QLE, Ecl. Mag, Ecl.Type.
@@ -51,7 +53,31 @@
     Privacy policy are stated [here](https://www.nasa.gov/about/highlights/HP_Privacy.html)
    
  ### Potential Users
-    Scientists, 
+   Scientists, Third Party Users
+    
+ ### Questions that will be answered
+ 
+ 
+## 3. H-1B Program Data
+--------------------------------------
+### Description
+   A labor Condition Application is used by employers as supporting evidence for the petition for an H-1B visa. This archive includes
+   data from the LCA E-file online system or via the automated fax system. Data is available for both systems as separate files. 
+ 
+### Interesting Facts
+
+
+### Metadata
+   The file consists of 30 columns. Some of the columns are Submitted_data, Case_No, Program, Name, Address, Address2, City, State,        Postal_Code, Nbr_Immigrants, Begin_date, End_date, Job_title, Approval_Status, Certified_begin_date, Certified_end_date, Wage_rate_1    and so on.
+
+### License
+   This file is under Department Of Labor. DOL has [privacy](https://www.dol.gov/general/privacynotice) and security. 
+ 
+### Potential Users
+   Government, Social Media and Third Party vendors
+ 
+### Questions that will be answered
+
     
     
     
