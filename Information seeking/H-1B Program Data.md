@@ -1,7 +1,7 @@
 #  H-1B Program Data
 --------------------------------------
 
-## Interesting Facts
+## Interesting Aspects
    The H-1B visa is widely used as a long-term work visa in United States by giving a lengthy initial period of stay for many foreign 
    professionals to work. The data related to the numbers of H-1B visas issued allows the Government to focus on working professionals with caliber and talent.
 
