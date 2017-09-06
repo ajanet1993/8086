@@ -16,13 +16,13 @@
    CO2, which is measured in million tonnes and tonnes per capita.
 
 ### About this file
-   Owner : OECD
-   File size : 1.35 MB
-   Format : CSV
+   * Owner : OECD
+   * File size : 1.35 MB
+   * Format : CSV
    The dataset consists of columns such as location, indicator, subject, measure, frequency, time, value, flag_codes. This file consists      of 8 columns and 24,948 rows.
    
 ### License/ Terms of Use
-   Source: OECD
+   Source: *OECD*
    OECD (2017), Air and GHG emissions (indicator).
    OECD Material licensed under a particular [Creative Commons IGO license](http://www.oecd.org/termsandconditions/)
   
