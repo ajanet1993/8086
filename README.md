@@ -229,6 +229,9 @@ THis repository consists of 2 files.
 1. License
 2. README
 3. Information seeking
+   1. Air and GreenHouse Emissions
+   2. H-1B Program Data
+   3. Five Millennium Catalog of Solar Eclipses.
 
 ## Authors
 * Anuja Janet - Initial work
