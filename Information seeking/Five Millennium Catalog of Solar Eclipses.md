@@ -21,7 +21,7 @@
   Source : NASA
   Privacy policy are stated [here](https://www.nasa.gov/about/highlights/HP_Privacy.html)
    
- ### Potential Users
+ ### Potential Users and Decision Makers
    Scientists, Third Party Users.
     
  ### Questions that will be answered
