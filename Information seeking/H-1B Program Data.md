@@ -14,8 +14,8 @@ A labor Condition Application is used by employers as supporting evidence for th
 data from the LCA E-file online system or via the automated fax system. Data is available for both systems as separate files. 
  
 ## About the file
-   Owner : Foreign Labor Certification DataCenter
-   File Size: 83.3 MB
+   Owner : Foreign Labor Certification DataCenter.
+   File Size: 83.3 MB.
    The file consists of 30 columns.
    Columns headers are Submitted_data, Case_No, Program, Name, Address, Address2, City, State, Postal_Code, Nbr_Immigrants, Begin_date,    End_date, Job_title, Approval_Status, Certified_begin_date, Certified_end_date, 
    Wage_rate_1, Rate_Per_1,Max_Rate_1,Part_Time_1,City_1,State_1,Wage_Source_1,Yr_Source_Pub_1,Other_Wage_Source_1.
