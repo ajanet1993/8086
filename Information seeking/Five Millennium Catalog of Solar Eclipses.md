@@ -18,9 +18,9 @@
   Column Names are Catalog Number, Calendar Date, TD of Greatest Eclipse, Delta T, Luna Number, Saros Number, Lat. , Long. , Sun Alt,
   Sun Azm, Path Width, Central Duration, Gamma, QLE, Ecl. Mag, Ecl.Type.
     
- ### License and Terms of Use
-  Source : *NASA*
-  Privacy policy are stated [here](https://www.nasa.gov/about/highlights/HP_Privacy.html)
+ ## License and Terms of Use
+  Source : [*NASA*](https://eclipse.gsfc.nasa.gov/solar.html)
+  Privacy policies are stated [here](https://www.nasa.gov/about/highlights/HP_Privacy.html)
    
  ### Potential Users and Decision Makers
    Scientists, Third Party Users.
@@ -29,3 +29,11 @@
  1. Estimate the future occurence of solar eclipse.
  2. Analyze the past occurences group by year and location.
  3. Estimate the average duration of the eclipse.
+
+### References
+
+1. Bretagnon P., Francou G., "Planetary Theories in rectangular and spherical variables: VSOP87 solution", Astron. Astrophys., vol. 202, no. 309 (1988).
+
+2. Brown, E. W., Tables of the Motion of the Moon, Yale University Press, New Haven, 1919.
+
+3. Chapront, J., Chapront-Touze, M. and Francou, G., "A new determination of lunar orbital parameters, precession constant and tidal acceleration from LLR measurements", Astron. Astrophys., vol. 387, pp 700-709 (2002).
