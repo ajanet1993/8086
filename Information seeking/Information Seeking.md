@@ -51,8 +51,8 @@
   Sun Azm, Path Width, Central Duration, Gamma, QLE, Ecl. Mag, Ecl.Type.
     
  ### License
-    Source : NASA
-    Privacy policy are stated [here](https://www.nasa.gov/about/highlights/HP_Privacy.html)
+  Source : NASA
+  Privacy policy are stated [here](https://www.nasa.gov/about/highlights/HP_Privacy.html)
    
  ### Potential Users
    Scientists, Third Party Users
