@@ -23,7 +23,7 @@ data from the LCA E-file online system or via the automated fax system. Data is 
 ## License/ Terms Of use
    This file is under Department Of Labor. DOL has [privacy](https://www.dol.gov/general/privacynotice) and security policies. 
  
-## Potential Users
+## Potential Users and Decison Makers
    Government, Social Media and Third Party vendors
  
 ## Questions that will be answered
