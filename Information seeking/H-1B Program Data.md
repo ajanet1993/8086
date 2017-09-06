@@ -21,7 +21,7 @@ data from the LCA E-file online system or via the automated fax system. Data is 
    Wage_rate_1, Rate_Per_1,Max_Rate_1,Part_Time_1,City_1,State_1,Wage_Source_1,Yr_Source_Pub_1,Other_Wage_Source_1.
 
 ## License/ Terms Of use
-   This file is under *Department Of Labor*. DOL has [privacy](https://www.dol.gov/general/privacynotice) and security policies. 
+   The Foreign Labor Certification Data Center is developed and maintained by the State of Utah under contract with the US Department of     Labor, Office of Foreign Labor Certification. DOL has [privacy](https://www.dol.gov/general/privacynotice) and security policies. 
  
 ## Potential Users and Decison Makers
    Government, Social Media and Third Party vendors
