@@ -30,23 +30,25 @@
    Government, Non-profit Organizations, Third party ventors.
   
  ### Questions that will be answered
- 
+ 1. The amount of greenhouse gases emitted based on location.
+ 2. Annual estimation of greenhouse gas emission.
+ 3. Analysis of impact of greenhouse gases on climate change.
  
  
  ## 2. Five Millennium Catalog of Solar Eclipses
  -------------------------------------------------------
  
  ### Description 
-    Eclipses of the sun can only occur when the moon is near one of its orbital nodes[1] during the New Moon phase. Moon's penumbral,       umbral of antumbral shadows sweep across Earth's surface producing an eclipse. There are four types of solar eclipses: Partial,         Annular, Total and Hybrid.
+  Eclipses of the sun can only occur when the moon is near one of its orbital nodes[1] during the New Moon phase. Moon's penumbral,       umbral of antumbral shadows sweep across Earth's surface producing an eclipse. There are four types of solar eclipses: Partial,         Annular, Total and Hybrid.
     
  
  ### Interesting Facts
- 
+ The data about such natural phenomenon gives more information about the future occurences. This allows the scientists and the Astrophysicists to estimate the future orbital occurence. 
+    
  ### MetaData
-    Number of tables : Depends upon the years you select. 5-20
-    Each table consists of 17 columns and 251 rows. Total size: 10 MB
-    Column Names are Catalog Number, Calendar Date, TD of Greatest Eclipse, Delta T, Luna Number, Saros Number, Lat. , Long. , Sun Alt,
-    Sun Azm, Path Width, Central Duration, Gamma, QLE, Ecl. Mag, Ecl.Type.
+  Number of tables 5-20 (Depends upon the years you select). Each table consists of 17 columns and 251 rows. The file total size: 10 MB.
+  Column Names are Catalog Number, Calendar Date, TD of Greatest Eclipse, Delta T, Luna Number, Saros Number, Lat. , Long. , Sun Alt,
+  Sun Azm, Path Width, Central Duration, Gamma, QLE, Ecl. Mag, Ecl.Type.
     
  ### License
     Source : NASA
@@ -56,7 +58,9 @@
    Scientists, Third Party Users
     
  ### Questions that will be answered
- 
+ 1. Estimate the future occurence of solar eclipse.
+ 2. Analyze the past occurences group by year and location.
+ 3. Estimate the average duration of the eclipse.
  
 ## 3. H-1B Program Data
 --------------------------------------
@@ -65,7 +69,7 @@
    data from the LCA E-file online system or via the automated fax system. Data is available for both systems as separate files. 
  
 ### Interesting Facts
-
+   The H-1B visa is widely used as a long-term work visa in United States by giving a lengthy initial period of stay for many foreign professionals to work. The data related to the numbers of H-1B visas issued allows the Government to focus on working professionals with calibre and talent.
 
 ### Metadata
    The file consists of 30 columns. Some of the columns are Submitted_data, Case_No, Program, Name, Address, Address2, City, State,        Postal_Code, Nbr_Immigrants, Begin_date, End_date, Job_title, Approval_Status, Certified_begin_date, Certified_end_date, Wage_rate_1    and so on.
@@ -77,7 +81,9 @@
    Government, Social Media and Third Party vendors
  
 ### Questions that will be answered
-
+  1. Estimate the working professionsl who apply for visa.
+  2. EStimate the working professionals who are on wait.
+  3. Analyze Approval_status.
     
     
     
