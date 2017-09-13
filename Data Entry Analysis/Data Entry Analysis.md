@@ -36,15 +36,8 @@ The issues that are stated can be resolved as follows.
 3. 
 ## Potential Table that can address the issues.
 
-|Date (MM/DD/YY)  |Time (HH:MM:SS)  |Species| Colony Diameter (mm)|Depth(m)  |Temperature(celsius) |Cuni #/L |Cuni ColonySize(mm)|Chippo #/L|Chippo ColonySize(mm)|Chla|
-|-------|-------|-------|------------|-------|--------------------|----------|---------------------|-----------------|-----------|
-|       |       |       |            |       |		 	  |          |         		   |                 |    	 |
-|       |       |       |            |       |			  |          |          	   |                 |           |
-|       |       |       |            |       |			  |          |          	   |                 |    	 |
-|       |       |       |            |       |			  |          |          	   |                 |    	 |
-|       |       |       |            |       | 			  |          |          	   |                 |    	 |
-|       |       |       |            |       |  		  |          |         	           |                 |    	 |
-
+| Date (MM/DD/YY) | Time (HH:MM:SS) | Species | Colony Diameter (mm) | Depth(m) | Temperature(celsius) | Cuni #/L | Cuni ColonySize(mm) | Chippo #/L | Chippo ColonySize(mm) | Chla |
+|-----------------|-----------------|---------|----------------------|----------|----------------------|----------|---------------------|------------|-----------------------|------|
 This table is useful to examine the day-night distribution of 2 species of zooplankton across multiple years.
 1. Date and time columns are used to examine the data across multiple years for a particular time.
 2. The other columns are used to analyze the behaviour and distribution of cuni and chippi species.
