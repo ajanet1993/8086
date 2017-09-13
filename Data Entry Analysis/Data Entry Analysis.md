@@ -6,6 +6,7 @@
 1. pond2010.xlsx
 2. zoop-temp.xlsx
 3. zoop-temp-main.xlsx
+4. Data Entry Analysis.md
 
 ## Background
 Plankton are microscopic organisms that form the base of many aquatic food webs – fueling the growth of fish and other larger organisms. It’s common to sample them using a net or another container that can be controlled to collect water just from certain depths; so you can see how plankton collected at the surface (0 meters) might be different from plankton at another depth (e.g. 10 meters below the surface).
@@ -28,16 +29,21 @@ The 3 files linked above were all intended to be part of the same study – the 
 	for 2 dates 06/07, 06/09.
 11.	Temperature column in zoop-temp-main has one large outlier.
 
+## Response to the above stated problems.
+The issues that are stated can be resolved as follows.
+1. The data in all 3 files can be combined into one file.
+2. New column Time should be added to get information related to day and night distribution of species.
+3. 
 ## Potential Table that can address the issues.
 
-|Date (MM/DD/YY)  |Time (HH:MM:SS)  |Depth(m)  |Temperature(celsius) |Cuni #/L |Cuni ColonySize(mm)|Chippo #/L|Chippo ColonySize(mm)|Chla|
-|-------|-------|-------|------------|---------|---------------------|---------|-----------------|----|
-|       |       |       |            |         |               |          |                 |    |
-|       |       |       |            |         |               |          |                 |    |
-|       |       |       |            |         |               |          |                 |    |
-|       |       |       |            |         |               |          |                 |    |
-|       |       |       |            |         |               |          |                 |    |
-|       |       |       |            |         |               |          |                 |    |
+|Date (MM/DD/YY)  |Time (HH:MM:SS)  |Species| Colony Diameter (mm)|Depth(m)  |Temperature(celsius) |Cuni #/L |Cuni ColonySize(mm)|Chippo #/L|Chippo ColonySize(mm)|Chla|
+|-------|-------|-------|------------|-------|--------------------|----------|---------------------|-----------------|-----------|
+|       |       |       |            |       |		 	  |          |         		   |                 |    	 |
+|       |       |       |            |       |			  |          |          	   |                 |           |
+|       |       |       |            |       |			  |          |          	   |                 |    	 |
+|       |       |       |            |       |			  |          |          	   |                 |    	 |
+|       |       |       |            |       | 			  |          |          	   |                 |    	 |
+|       |       |       |            |       |  		  |          |         	           |                 |    	 |
 
 This table is useful to examine the day-night distribution of 2 species of zooplankton across multiple years.
 1. Date and time columns are used to examine the data across multiple years for a particular time.
