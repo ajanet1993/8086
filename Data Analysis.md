@@ -15,7 +15,7 @@ Frequently, aquatic scientists collect plankton samples during both day (e.g. no
 The 3 files linked above were all intended to be part of the same study – the investigators wanted to examine the day-night distribution of 2 species of zooplankton across multiple years. The type of zooplankton they studied is called rotifers generally, and specifically the genus Conochilus, in which groups of individual rotifers stick together in colonies (see http://eol.org/pages/43393/overview (Links to an external site.)Links to an external site.). The investigators plan to repeat this study for several more years.
 
 # Problems with the Given Data
-1.	Year Difference – Pond2010 file has data related to Rotifer’s species namely Cuni and Chippo for the year 2010, where as the other 	   files zoop-temp and zoop-temp-main has data collected for year 2011.
+1.	Year Difference – Pond2010 file has data related to Rotifer’s species namely Cuni and Chippo for the year 2010, where as the 		other files zoop-temp and zoop-temp-main has data collected for year 2011.
 2.	Pond2010 has a column ‘z’ which is undefined.
 3.	Station A and Station B terms are not clearly explained. 
 4.	Column metrics are not mentioned.
@@ -29,3 +29,16 @@ The 3 files linked above were all intended to be part of the same study – the 
 11.	Temperature column in zoop-temp-main has one large outlier.
 
 # Potential Table that can address the issues.
+
+|Date (MM/DD/YY)  |Time (HH:MM:SS)  |Depth(m)  |Temperature(celsius) |Cuni #/L |Cuni ColonySize|Chippo #/L|Chippo ColonySize|Chla|
+|-------|-------|-------|------------|---------|---------------|----------|-----------------|----|
+|       |       |       |            |         |               |          |                 |    |
+|       |       |       |            |         |               |          |                 |    |
+|       |       |       |            |         |               |          |                 |    |
+|       |       |       |            |         |               |          |                 |    |
+|       |       |       |            |         |               |          |                 |    |
+|       |       |       |            |         |               |          |                 |    |
+
+This table is useful to examine the day-night distribution of 2 species of zooplankton across multiple years.
+1. Date and time columns to examine the data across multiple years at a particular time.
+2. The other columns are used to analyze the behaviour and distribution of cuni and chippi species.
