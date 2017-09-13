@@ -41,8 +41,9 @@ The issues that are stated can be resolved as follows.
 | Date (MM/DD/YY) | Time (HH:MM:SS) | Species | Colony Diameter (mm) | Depth(m) | Temperature(celsius) | Cuni #/L | Cuni ColonySize(mm) | Chippo #/L | Chippo ColonySize(mm) | Chla | Station |
 |-----------------|-----------------|---------|----------------------|----------|----------------------|----------|---------------------|------------|-----------------------|------|---------|
 
+Table consists of 12 columns. 
 
-##### This table is useful to examine the day-night distribution of 2 species of zooplankton across multiple years.
+### This table is useful to examine the day-night distribution of 2 species of zooplankton across multiple years.
 1. Date and time columns are used to examine the data across multiple years for a particular time.
 2. The other columns are used to analyze the behaviour and distribution of cuni and chippi species.
 3. Time column is a new column which fulfills the criteria of day-night distribution.
