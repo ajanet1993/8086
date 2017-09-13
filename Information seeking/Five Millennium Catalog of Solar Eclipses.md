@@ -11,6 +11,7 @@
     
  ## About the file
  * Owner :Nasa
+ * Source URL : (URL)[https://data.world/nasa/five-millennium-catalog-of-solar-eclipses-detailed]
  * Total File Size: 10 MB
  * Each table size:20KB
   Number of tables: 50( Can select only a set of tables too based on calendar data).
@@ -31,10 +32,11 @@
  2. Analyze the past occurences group by year and location.
  3. Estimate the average duration of the eclipse.
 
-### References
+### Citations
 
-1. Bretagnon P., Francou G., "Planetary Theories in rectangular and spherical variables: VSOP87 solution", Astron. Astrophys., vol. 202, no. 309 (1988).
+    NASA - Key to Catalog of Solar Eclipses
+    Key to Catalog of Solar Eclipses ... "Planetary Theories in rectangular and spherical variables: VSOP87..
 
-2. Brown, E. W., Tables of the Motion of the Moon, Yale University Press, New Haven, 1919.
+    Brown, E.W. Tables of the Motion of the Moon Yale University Press, New Haven CT, 1919. Brown, E.W. and...
 
-3. Chapront, J., Chapront-Touze, M. and Francou, G., "A new determination of lunar orbital parameters, precession constant and tidal acceleration from LLR measurements", Astron. Astrophys., vol. 387, pp 700-709 (2002).
+### Source
