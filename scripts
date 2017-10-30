@@ -1,7 +1,0 @@
-# set working directory
-setwd("D:/college/cs8086_data2decisions/Project")
-## Read csv file
-ghg1<-read.csv("air-n-ghg.csv",header=TRUE,stringsAsFactors=FALSE)
-## Convert strings to factors
-### converting Subject into factors
-ghg1$SUBJECT <- factor(ghg1$SUBJECT)
