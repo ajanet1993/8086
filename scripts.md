@@ -36,10 +36,10 @@ plot(ghg.sub3$Value~ghg.sub3$Region)
 ## creating a subset of CO2 values for year 2012.
 ghg.sub2012<-ghg.sub3[ghg.sub3$TIME==2012,]
 
-## Rank in descending order based on most Urbanized regions from 2012,top 20:
+## Rank in descending order based on most Urbanized regions from 2012,top 15:
 top52012 <- head(ghg.sub2012[order(ghg.sub2012$Urbanization., decreasing= T),], n = 15,)
 
 ## Create a barchart of Top Urbanizied Regions 2012:
-barplot(top52012$Urabnization., main="Top Urbanizied Regions 2012", col = rainbow(20), space=0)
-axis(1, at=.5:19.5, labels=top2014$region)
+barplot(top52012$Urabnization., main="Top Urbanizied Regions 2012", col = rainbow(15), space=0)
+axis(1, at=.5:14.5, labels=top2014$region)
 
